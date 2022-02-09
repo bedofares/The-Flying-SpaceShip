@@ -12,7 +12,7 @@ avoid the fireballs. You will gain points for avoiding each obstacle and you are
 1- Go  to CCL folder 
 2- run index.html
 
-##Demo
+## Demo
 http://cc201013.students.fhstp.ac.at/CCL/
 
 
