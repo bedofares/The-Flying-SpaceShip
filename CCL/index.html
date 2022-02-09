@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2D GAME CCL</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body onload="startfresh()">
+    <audio id="audio" src="./others/alert.wav"></audio>
+    <div id="score">0</div>
+
+
+
+    <div>
+    <button type="button" id="startBtn" onclick="IntializeGame()"></button>
+    <button type="button" id="howtoplay" onclick="howtoplay()"></button>
+    </div>
+
+    <canvas id="canvas1"></canvas>
+
+
+    <button type="button" id="backbtn" onclick="startfresh()"></button>
+    <button type="button" id="restartBtn" onclick="window.location.reload()"></button>
+
+
+
+    <script src="rocket.js"></script>
+    <script src="FireBalls.js"></script>
+    <script src="particles.js"></script>
+    <script src="Fuel.js"></script>
+    <script src="Health.js"></script>
+    <script src="main.js"></script>
+</body>
+
+</html>
