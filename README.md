@@ -1,4 +1,4 @@
-## What will you'll find in my project
+## Project overview
 It is a 2D Arkad single-player game. Side controller game that could be played using (spacebar or arrow up key) and it is a kind of
 Infinite level type game with no end.
 The game takes place in space and our main character is a flying spaceship. The space is full of a bunch of dangerous obstacles and
